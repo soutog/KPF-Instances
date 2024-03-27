@@ -1,0 +1,44 @@
+Configurations in irace:
+OrderedDict([('population_size', 20), ('alpha_semigreedy', 0.65), ('elite_percentage', 0.1), ('mutants_percentage', 0.1), ('delta_div', 6)])
+
+---------------------BASIC INFO---------------------------------
+> Experiment started at 2024-01-20 13:24:41.248819
+> Instance: kpf_5_1000_sum.txt
+> Configuration: config.conf
+> BRKGA Parameters: 
+    >  -population_size 20
+    >  -elite_percentage 0.1
+    >  -mutants_percentage 0.1
+    >  -num_elite_parents 1
+    >  -total_parents 2
+    >  -bias_type LOGINVERSE
+    >  -num_independent_populations 1
+    >  -pr_number_pairs 0
+    >  -pr_minimum_distance 0.15
+    >  -pr_type PERMUTATION
+    >  -pr_selection BESTSOLUTION
+    >  -alpha_block_size 1.0
+    >  -pr_percentage 1.0    
+    > Seed: 42
+    > Stop rule: IMPROVEMENT
+    > Stop argument: 10
+    > Maximum time (s): 180
+    > Alpha SemiGreedy: 0.65
+    > Delta LB: 166.66666666666666
+
+------------------------------------------------------
+-->Total Constructive time: 30.76
+[2024-01-20 13:25:12.012420] Initializing BRKGA data...
+-->BRKGA time: 52.88
+-->Total Constructive + BRKGA time: 83.64
+% Best cost brkga: 1532.00
+[2024-01-20 13:26:04.889183] Local Branching Executing...
+-->Remaining time for LB: 96.36
+% Best cost after local branching: 4472.00
+
+[2024-01-20 13:26:05.673465] End of optimization
+Total number of iterations: 1
+Last update iteration: 1
+Total optimization time: 84.42
+Last update brkga time: 83.64
+Large number of iterations between improvements: 1

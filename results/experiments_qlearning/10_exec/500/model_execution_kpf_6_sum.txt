@@ -1,0 +1,80 @@
+
+----BRKGA + LB------
+-> Instance Filename:kpf_6_sum
+-> Solve Status: JobSolveStatus.OPTIMAL_SOLUTION
+-> Objective value: 2615.0
+-> LB time: 116.24605798721313
+-> GAP: 0.0
+
+
+----BRKGA + LB------
+-> Instance Filename:kpf_6_sum
+-> Solve Status: JobSolveStatus.OPTIMAL_SOLUTION
+-> Objective value: 2615.0
+-> LB time: 116.41858386993408
+-> GAP: 0.0
+
+
+----BRKGA + LB------
+-> Instance Filename:kpf_6_sum
+-> Solve Status: JobSolveStatus.OPTIMAL_SOLUTION
+-> Objective value: 2615.0
+-> LB time: 116.02683067321777
+-> GAP: 0.0
+
+
+----BRKGA + LB------
+-> Instance Filename:kpf_6_sum
+-> Solve Status: JobSolveStatus.OPTIMAL_SOLUTION
+-> Objective value: 2615.0
+-> LB time: 116.61641931533813
+-> GAP: 0.0
+
+
+----BRKGA + LB------
+-> Instance Filename:kpf_6_sum
+-> Solve Status: JobSolveStatus.OPTIMAL_SOLUTION
+-> Objective value: 2615.0
+-> LB time: 116.38687539100647
+-> GAP: 0.0
+
+
+----BRKGA + LB------
+-> Instance Filename:kpf_6_sum
+-> Solve Status: JobSolveStatus.OPTIMAL_SOLUTION
+-> Objective value: 2615.0
+-> LB time: 116.58938455581665
+-> GAP: 0.0
+
+
+----BRKGA + LB------
+-> Instance Filename:kpf_6_sum
+-> Solve Status: JobSolveStatus.OPTIMAL_SOLUTION
+-> Objective value: 2615.0
+-> LB time: 116.4380362033844
+-> GAP: 0.0
+
+
+----BRKGA + LB------
+-> Instance Filename:kpf_6_sum
+-> Solve Status: JobSolveStatus.OPTIMAL_SOLUTION
+-> Objective value: 2615.0
+-> LB time: 116.18083238601685
+-> GAP: 0.0
+
+
+----BRKGA + LB------
+-> Instance Filename:kpf_6_sum
+-> Solve Status: JobSolveStatus.OPTIMAL_SOLUTION
+-> Objective value: 2615.0
+-> LB time: 119.04773330688477
+-> GAP: 0.0
+
+
+----BRKGA + LB------
+-> Instance Filename:kpf_6_sum
+-> Solve Status: JobSolveStatus.OPTIMAL_SOLUTION
+-> Objective value: 2615.0
+-> LB time: 120.5512113571167
+-> GAP: 0.0
+

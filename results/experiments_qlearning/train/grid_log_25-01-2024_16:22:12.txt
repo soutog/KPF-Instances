@@ -1,0 +1,36 @@
+Train for: kpf_9_1000_sum.txt
+Time:458.4177122116089 for file: kpf_9_1000_sum.txt
+Current cost: 4848
+Train for: kpf_4_800_sum.txt
+Time:296.76762866973877 for file: kpf_4_800_sum.txt
+Current cost: 3834
+Train for: kpf_3_700_sum.txt
+Time:191.528395652771 for file: kpf_3_700_sum.txt
+Current cost: 3487
+Train for: kpf_10_700_sum.txt
+Time:216.85764288902283 for file: kpf_10_700_sum.txt
+Current cost: 3469
+Train for: kpf_2_500_sum.txt
+Time:100.66090154647827 for file: kpf_2_500_sum.txt
+Current cost: 2552
+Train for: kpf_9_500_sum.txt
+Time:110.57336497306824 for file: kpf_9_500_sum.txt
+Current cost: 2514
+Train for: kpf_1_1000_sum.txt
+Time:449.2897753715515 for file: kpf_1_1000_sum.txt
+Current cost: 4622
+Train for: kpf_5_1000_sum.txt
+Time:466.80748438835144 for file: kpf_5_1000_sum.txt
+Current cost: 4882
+Train for: kpf_6_800_sum.txt
+Time:277.6749713420868 for file: kpf_6_800_sum.txt
+Current cost: 4023
+Train for: kpf_1_800_sum.txt
+Time:281.8982951641083 for file: kpf_1_800_sum.txt
+Current cost: 3970
+Train for: kpf_8_500_sum.txt
+Time:93.53085017204285 for file: kpf_8_500_sum.txt
+Current cost: 2459
+Train for: kpf_7_700_sum.txt
+Time:209.79796695709229 for file: kpf_7_700_sum.txt
+Current cost: 3300

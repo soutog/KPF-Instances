@@ -1,0 +1,39 @@
+---------------------BASIC INFO---------------------------------
+> Experiment started at 2024-01-24 01:09:48.278445
+> Instance: kpf_8_500_sum.txt
+> Configuration: config.conf
+> Q-Learning:
+{'learning_rate': 0.8, 'n_training_episodes': 15, 'max_steps': 15, 'gamma': 0.99, 'min_epsilon': 0.01, 'decay_rate': 0.0001}
+
+ > BRKGA Parameters: 
+    >  -population_size 15
+    >  -elite_percentage 0.15
+    >  -mutants_percentage 0.1
+    >  -num_elite_parents 1
+    >  -total_parents 2
+    >  -bias_type LOGINVERSE
+    >  -num_independent_populations 1
+    >  -pr_number_pairs 0
+    >  -pr_minimum_distance 0.15
+    >  -pr_type PERMUTATION
+    >  -pr_selection BESTSOLUTION
+    >  -alpha_block_size 1.0
+    >  -pr_percentage 1.0    
+    > Seed: 42
+    > Stop rule: IMPROVEMENT
+    > Stop argument: 10
+------------------------------------------------------
+[2024-01-24 01:09:48.278475] Generating initial set of items...
+[2024-01-24 01:09:48.979176] Building BRKGA data...
+-->Total Constructive time: 11.25
+[2024-01-24 01:09:59.525686] Initializing BRKGA data...
+[2024-01-24 01:12:28.402420] Evolving...* Iteration | Cost | CurrentTime
+* 1 | 2447 | 160.12
+-->BRKGA time: 148.88
+-->Total Constructive + BRKGA time: 160.12
+% Best cost brkga: 2447.00[2024-01-24 01:12:28.402586] End of optimization
+Total number of iterations: 11
+Last update iteration: 1
+Total optimization time: 160.12
+Last update brkga time: 160.12
+Large number of iterations between improvements: 1

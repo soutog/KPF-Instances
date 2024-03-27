@@ -1,0 +1,80 @@
+
+----BRKGA + LB------
+-> Instance Filename:kpf_1_sum
+-> Solve Status: JobSolveStatus.FEASIBLE_SOLUTION
+-> Objective value: 2615.0000000000005
+-> LB time: 159.38234949111938
+-> GAP: 0.018503514452528604
+
+
+----BRKGA + LB------
+-> Instance Filename:kpf_1_sum
+-> Solve Status: JobSolveStatus.FEASIBLE_SOLUTION
+-> Objective value: 2615.0000000000005
+-> LB time: 159.4830904006958
+-> GAP: 0.018525454571093825
+
+
+----BRKGA + LB------
+-> Instance Filename:kpf_1_sum
+-> Solve Status: JobSolveStatus.FEASIBLE_SOLUTION
+-> Objective value: 2615.0000000000005
+-> LB time: 159.32442808151245
+-> GAP: 0.018503514452528604
+
+
+----BRKGA + LB------
+-> Instance Filename:kpf_1_sum
+-> Solve Status: JobSolveStatus.FEASIBLE_SOLUTION
+-> Objective value: 2615.0000000000005
+-> LB time: 159.0957546234131
+-> GAP: 0.01857200088293862
+
+
+----BRKGA + LB------
+-> Instance Filename:kpf_1_sum
+-> Solve Status: JobSolveStatus.FEASIBLE_SOLUTION
+-> Objective value: 2616.0
+-> LB time: 159.46049976348877
+-> GAP: 0.018272642126493786
+
+
+----BRKGA + LB------
+-> Instance Filename:kpf_1_sum
+-> Solve Status: JobSolveStatus.FEASIBLE_SOLUTION
+-> Objective value: 2616.0
+-> LB time: 159.29091334342957
+-> GAP: 0.018272642126493786
+
+
+----BRKGA + LB------
+-> Instance Filename:kpf_1_sum
+-> Solve Status: JobSolveStatus.FEASIBLE_SOLUTION
+-> Objective value: 2615.0000000000005
+-> LB time: 159.20714473724365
+-> GAP: 0.018503514452528604
+
+
+----BRKGA + LB------
+-> Instance Filename:kpf_1_sum
+-> Solve Status: JobSolveStatus.FEASIBLE_SOLUTION
+-> Objective value: 2615.0000000000005
+-> LB time: 159.12372422218323
+-> GAP: 0.018525648729854773
+
+
+----BRKGA + LB------
+-> Instance Filename:kpf_1_sum
+-> Solve Status: JobSolveStatus.FEASIBLE_SOLUTION
+-> Objective value: 2615.0000000000005
+-> LB time: 159.32507729530334
+-> GAP: 0.01854931710423732
+
+
+----BRKGA + LB------
+-> Instance Filename:kpf_1_sum
+-> Solve Status: JobSolveStatus.FEASIBLE_SOLUTION
+-> Objective value: 2618.0
+-> LB time: 159.130797624588
+-> GAP: 0.017479885798995183
+

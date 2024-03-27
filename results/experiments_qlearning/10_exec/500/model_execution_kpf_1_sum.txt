@@ -1,0 +1,80 @@
+
+----BRKGA + LB------
+-> Instance Filename:kpf_1_sum
+-> Solve Status: JobSolveStatus.FEASIBLE_SOLUTION
+-> Objective value: 2615.0000000000005
+-> LB time: 159.2146236896515
+-> GAP: 0.018503514452528604
+
+
+----BRKGA + LB------
+-> Instance Filename:kpf_1_sum
+-> Solve Status: JobSolveStatus.FEASIBLE_SOLUTION
+-> Objective value: 2615.0000000000005
+-> LB time: 159.4543297290802
+-> GAP: 0.018503514452528604
+
+
+----BRKGA + LB------
+-> Instance Filename:kpf_1_sum
+-> Solve Status: JobSolveStatus.FEASIBLE_SOLUTION
+-> Objective value: 2615.0000000000005
+-> LB time: 159.26412630081177
+-> GAP: 0.01857200088293862
+
+
+----BRKGA + LB------
+-> Instance Filename:kpf_1_sum
+-> Solve Status: JobSolveStatus.FEASIBLE_SOLUTION
+-> Objective value: 2615.0000000000005
+-> LB time: 159.36468720436096
+-> GAP: 0.018551448652477407
+
+
+----BRKGA + LB------
+-> Instance Filename:kpf_1_sum
+-> Solve Status: JobSolveStatus.FEASIBLE_SOLUTION
+-> Objective value: 2615.0000000000005
+-> LB time: 159.2483205795288
+-> GAP: 0.018503514452528604
+
+
+----BRKGA + LB------
+-> Instance Filename:kpf_1_sum
+-> Solve Status: JobSolveStatus.FEASIBLE_SOLUTION
+-> Objective value: 2615.0000000000005
+-> LB time: 159.44960141181946
+-> GAP: 0.018530490294546113
+
+
+----BRKGA + LB------
+-> Instance Filename:kpf_1_sum
+-> Solve Status: JobSolveStatus.FEASIBLE_SOLUTION
+-> Objective value: 2615.0000000000005
+-> LB time: 159.36801290512085
+-> GAP: 0.018415879346036824
+
+
+----BRKGA + LB------
+-> Instance Filename:kpf_1_sum
+-> Solve Status: JobSolveStatus.FEASIBLE_SOLUTION
+-> Objective value: 2615.0000000000005
+-> LB time: 159.58406138420105
+-> GAP: 0.018391096135697175
+
+
+----BRKGA + LB------
+-> Instance Filename:kpf_1_sum
+-> Solve Status: JobSolveStatus.FEASIBLE_SOLUTION
+-> Objective value: 2615.0000000000005
+-> LB time: 159.53176736831665
+-> GAP: 0.018441524351003696
+
+
+----BRKGA + LB------
+-> Instance Filename:kpf_1_sum
+-> Solve Status: JobSolveStatus.FEASIBLE_SOLUTION
+-> Objective value: 2615.0000000000005
+-> LB time: 159.57648158073425
+-> GAP: 0.018391096135697175
+

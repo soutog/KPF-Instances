@@ -1,0 +1,80 @@
+
+----BRKGA + LB------
+-> Instance Filename:kpf_10_sum
+-> Solve Status: JobSolveStatus.FEASIBLE_SOLUTION
+-> Objective value: 4111.0
+-> LB time: 106.3976263999939
+-> GAP: 0.048484825424026115
+
+
+----BRKGA + LB------
+-> Instance Filename:kpf_10_sum
+-> Solve Status: JobSolveStatus.FEASIBLE_SOLUTION
+-> Objective value: 4111.0
+-> LB time: 105.88443040847778
+-> GAP: 0.048484825424026115
+
+
+----BRKGA + LB------
+-> Instance Filename:kpf_10_sum
+-> Solve Status: JobSolveStatus.FEASIBLE_SOLUTION
+-> Objective value: 4111.0
+-> LB time: 106.18500304222107
+-> GAP: 0.048484825424026115
+
+
+----BRKGA + LB------
+-> Instance Filename:kpf_10_sum
+-> Solve Status: JobSolveStatus.FEASIBLE_SOLUTION
+-> Objective value: 4111.0
+-> LB time: 105.74147963523865
+-> GAP: 0.048484825424026115
+
+
+----BRKGA + LB------
+-> Instance Filename:kpf_10_sum
+-> Solve Status: JobSolveStatus.FEASIBLE_SOLUTION
+-> Objective value: 4111.0
+-> LB time: 105.97249484062195
+-> GAP: 0.048484825424026115
+
+
+----BRKGA + LB------
+-> Instance Filename:kpf_10_sum
+-> Solve Status: JobSolveStatus.FEASIBLE_SOLUTION
+-> Objective value: 4111.0
+-> LB time: 104.75099039077759
+-> GAP: 0.048484825424026115
+
+
+----BRKGA + LB------
+-> Instance Filename:kpf_10_sum
+-> Solve Status: JobSolveStatus.FEASIBLE_SOLUTION
+-> Objective value: 4111.0
+-> LB time: 106.07922601699829
+-> GAP: 0.048484825424026115
+
+
+----BRKGA + LB------
+-> Instance Filename:kpf_10_sum
+-> Solve Status: JobSolveStatus.FEASIBLE_SOLUTION
+-> Objective value: 4111.0
+-> LB time: 106.06698155403137
+-> GAP: 0.048484825424026115
+
+
+----BRKGA + LB------
+-> Instance Filename:kpf_10_sum
+-> Solve Status: JobSolveStatus.FEASIBLE_SOLUTION
+-> Objective value: 4111.0
+-> LB time: 105.90013313293457
+-> GAP: 0.048484825424026115
+
+
+----BRKGA + LB------
+-> Instance Filename:kpf_10_sum
+-> Solve Status: JobSolveStatus.FEASIBLE_SOLUTION
+-> Objective value: 4111.0
+-> LB time: 105.79484963417053
+-> GAP: 0.048484825424026115
+

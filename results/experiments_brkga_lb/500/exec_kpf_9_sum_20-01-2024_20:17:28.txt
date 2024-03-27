@@ -1,0 +1,46 @@
+---------------------BASIC INFO---------------------------------
+
+    > Experiment started at 2024-01-20 20:17:28.394445
+    > Instance: kpf_9_sum.txt
+    > Configuration: config.conf
+    > BRKGA Parameters:
+    >  -population_size 15
+    >  -elite_percentage 0.15
+    >  -mutants_percentage 0.1
+    >  -num_elite_parents 1
+    >  -total_parents 2
+    >  -bias_type LOGINVERSE
+    >  -num_independent_populations 1
+    >  -pr_number_pairs 0
+    >  -pr_minimum_distance 0.15
+    >  -pr_type PERMUTATION
+    >  -pr_selection BESTSOLUTION
+    >  -alpha_block_size 1.0
+    >  -pr_percentage 1.0    
+    > Seed: 42
+    > Stop rule: IMPROVEMENT
+    > Stop argument: 10
+    > Maximum time (s): 180.0
+    > Alpha SemiGreedy: 0.95
+    > Delta LB: 250.0
+
+------------------------------------------------------
+[2024-01-20 20:17:28.394476] Generating initial set of items...
+[2024-01-20 20:17:29.098152] Building BRKGA data...
+-->Total Constructive time: 10.44
+[2024-01-20 20:17:38.837301] Initializing BRKGA data...
+[2024-01-20 20:17:42.172018] Warming up...
+[2024-01-20 20:17:47.247916] Evolving...* Iteration | Cost | CurrentTime
+* 1 | 2294 | 21.53
+-->BRKGA time: 36.09
+-->Total Constructive + BRKGA time: 46.53
+% Best cost brkga: 2294.00
+[2024-01-20 20:18:14.929248] Local Branching Executing...
+-->Remaining time for LB: 133.47
+ Best cost after local branching: 2613.00
+[2024-01-20 20:19:43.294724] End of optimization
+Total number of iterations: 11
+Last update iteration: 1
+Total optimization time: 134.90
+Last update brkga time: 21.53
+Large number of iterations between improvements: 1
